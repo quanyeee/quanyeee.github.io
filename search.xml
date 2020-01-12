@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>TEST</title>
+      <link href="/2020/01/12/article-title-1/"/>
+      <url>/2020/01/12/article-title-1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>test</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>the first blog by quanye</title>
       <link href="/2020/01/12/article-title/"/>
       <url>/2020/01/12/article-title/</url>
