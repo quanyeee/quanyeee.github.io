@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https:/quanye.fun/"/>
-  <updated>2020-01-13T14:49:06.056Z</updated>
+  <updated>2020-02-12T07:44:54.772Z</updated>
   <id>https:/quanye.fun/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>TEST</title>
-    <link href="https:/quanye.fun/2020/01/12/article-title-1/"/>
-    <id>https:/quanye.fun/2020/01/12/article-title-1/</id>
-    <published>2020-01-12T09:19:58.000Z</published>
-    <updated>2020-01-13T14:49:06.056Z</updated>
+    <title>摸鱼|给基友W画的头像</title>
+    <link href="https:/quanye.fun/2020/01/29/ji-you-w-de-tou-xiang-wei-tuo/"/>
+    <id>https:/quanye.fun/2020/01/29/ji-you-w-de-tou-xiang-wei-tuo/</id>
+    <published>2020-01-29T09:19:58.000Z</published>
+    <updated>2020-02-12T07:44:54.772Z</updated>
     
     <summary type="html">
     
@@ -35,32 +35,10 @@
     
     </summary>
     
-    
-      <category term="share" scheme="https:/quanye.fun/tags/share/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>the first blog by quanye</title>
-    <link href="https:/quanye.fun/2020/01/12/article-title/"/>
-    <id>https:/quanye.fun/2020/01/12/article-title/</id>
-    <published>2020-01-12T06:59:37.000Z</published>
-    <updated>2020-01-12T08:15:35.640Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
+      <category term="绘画" scheme="https:/quanye.fun/categories/%E7%BB%98%E7%94%BB/"/>
     
     
-      <category term="share" scheme="https:/quanye.fun/tags/share/"/>
+      <category term="绘画" scheme="https:/quanye.fun/tags/%E7%BB%98%E7%94%BB/"/>
     
   </entry>
   
